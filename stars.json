@@ -1,7 +1,7 @@
 [
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 15728,
+    "stargazers_count": 15734,
     "open_issues_count": 6,
     "forks_count": 689
   },
@@ -13,121 +13,121 @@
   },
   {
     "full_name": "danmarshall/google-font-to-svg-path",
-    "stargazers_count": 451,
+    "stargazers_count": 453,
     "open_issues_count": 4,
     "forks_count": 81
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 70203,
-    "open_issues_count": 64,
-    "forks_count": 9462
+    "stargazers_count": 70236,
+    "open_issues_count": 65,
+    "forks_count": 9468
   },
   {
     "full_name": "FaridSafi/react-native-gifted-chat",
-    "stargazers_count": 11802,
-    "open_issues_count": 55,
-    "forks_count": 3383
+    "stargazers_count": 11807,
+    "open_issues_count": 57,
+    "forks_count": 3382
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 22061,
-    "open_issues_count": 12306,
-    "forks_count": 2059
+    "stargazers_count": 22154,
+    "open_issues_count": 12410,
+    "forks_count": 2073
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 79519,
+    "stargazers_count": 79555,
     "open_issues_count": 28,
-    "forks_count": 8215
+    "forks_count": 8221
   },
   {
     "full_name": "hayanisaid/React-Native-developer-roadmap",
-    "stargazers_count": 464,
+    "stargazers_count": 465,
     "open_issues_count": 1,
     "forks_count": 64
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 2755,
+    "stargazers_count": 2758,
     "open_issues_count": 2,
-    "forks_count": 378
+    "forks_count": 379
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 243228,
-    "open_issues_count": 45,
-    "forks_count": 50046
+    "stargazers_count": 243357,
+    "open_issues_count": 44,
+    "forks_count": 50065
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 45943,
+    "stargazers_count": 45969,
     "open_issues_count": 80,
-    "forks_count": 6460
+    "forks_count": 6461
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 227327,
+    "stargazers_count": 227599,
     "open_issues_count": 53,
-    "forks_count": 61170
+    "forks_count": 61217
   },
   {
     "full_name": "pion/webrtc",
-    "stargazers_count": 9645,
+    "stargazers_count": 9649,
     "open_issues_count": 77,
-    "forks_count": 1253
+    "forks_count": 1255
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 25238,
+    "stargazers_count": 25248,
     "open_issues_count": 16,
-    "forks_count": 5311
+    "forks_count": 5314
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 41919,
+    "stargazers_count": 41942,
     "open_issues_count": 112,
-    "forks_count": 3294
+    "forks_count": 3295
   },
   {
     "full_name": "ahmetb/kubectx",
-    "stargazers_count": 13475,
+    "stargazers_count": 13478,
     "open_issues_count": 46,
-    "forks_count": 959
+    "forks_count": 961
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 84955,
-    "open_issues_count": 31,
+    "stargazers_count": 85040,
+    "open_issues_count": 30,
     "forks_count": 10076
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 90696,
-    "open_issues_count": 2458,
-    "forks_count": 33226
+    "stargazers_count": 90735,
+    "open_issues_count": 2446,
+    "forks_count": 33246
   },
   {
     "full_name": "karan/Projects",
-    "stargazers_count": 39390,
+    "stargazers_count": 39395,
     "open_issues_count": 80,
-    "forks_count": 10315
+    "forks_count": 10317
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 102176,
-    "open_issues_count": 7832,
-    "forks_count": 15173
+    "stargazers_count": 102230,
+    "open_issues_count": 7842,
+    "forks_count": 15175
   },
   {
     "full_name": "benawad/lireddit",
-    "stargazers_count": 1659,
+    "stargazers_count": 1658,
     "open_issues_count": 33,
-    "forks_count": 461
+    "forks_count": 460
   },
   {
     "full_name": "majodev/google-webfonts-helper",
-    "stargazers_count": 9853,
+    "stargazers_count": 9859,
     "open_issues_count": 89,
     "forks_count": 351
   }
