@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "withastro/astro",
+    "stargazers_count": 17702,
+    "open_issues_count": 147,
+    "forks_count": 810
+  },
+  {
+    "full_name": "payloadcms/payload",
+    "stargazers_count": 6603,
+    "open_issues_count": 19,
+    "forks_count": 264
+  },
+  {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 59979,
+    "stargazers_count": 59984,
     "open_issues_count": 15,
-    "forks_count": 3010
+    "forks_count": 3009
   }
 ]
