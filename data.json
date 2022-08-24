@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "sveltejs/kit",
+    "stargazers_count": 10034,
+    "open_issues_count": 331,
+    "forks_count": 892
+  },
+  {
+    "full_name": "sveltejs/svelte",
+    "stargazers_count": 61670,
+    "open_issues_count": 785,
+    "forks_count": 3003
+  },
+  {
     "full_name": "withastro/astro",
     "stargazers_count": 17702,
     "open_issues_count": 147,
