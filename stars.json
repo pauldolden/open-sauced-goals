@@ -1,51 +1,51 @@
 [
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 5812,
-    "open_issues_count": 59,
-    "forks_count": 82
+    "stargazers_count": 5848,
+    "open_issues_count": 64,
+    "forks_count": 83
   },
   {
     "full_name": "Textualize/textual",
-    "stargazers_count": 16010,
-    "open_issues_count": 84,
-    "forks_count": 453
+    "stargazers_count": 16090,
+    "open_issues_count": 78,
+    "forks_count": 455
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 8912,
-    "open_issues_count": 189,
-    "forks_count": 690
+    "stargazers_count": 8922,
+    "open_issues_count": 190,
+    "forks_count": 692
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 7531,
-    "open_issues_count": 73,
+    "stargazers_count": 7577,
+    "open_issues_count": 72,
     "forks_count": 365
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 8181,
-    "open_issues_count": 16,
-    "forks_count": 354
+    "stargazers_count": 8369,
+    "open_issues_count": 27,
+    "forks_count": 362
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 22455,
-    "open_issues_count": 75,
-    "forks_count": 1054
+    "stargazers_count": 22581,
+    "open_issues_count": 59,
+    "forks_count": 1066
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 13142,
-    "open_issues_count": 221,
-    "forks_count": 542
+    "stargazers_count": 13209,
+    "open_issues_count": 229,
+    "forks_count": 550
   },
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 16124,
-    "open_issues_count": 8,
-    "forks_count": 708
+    "stargazers_count": 16131,
+    "open_issues_count": 7,
+    "forks_count": 707
   },
   {
     "full_name": "gaearon/whatthefuck.is",
@@ -55,122 +55,122 @@
   },
   {
     "full_name": "danmarshall/google-font-to-svg-path",
-    "stargazers_count": 488,
+    "stargazers_count": 491,
     "open_issues_count": 7,
-    "forks_count": 87
+    "forks_count": 89
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 75213,
-    "open_issues_count": 69,
-    "forks_count": 10159
+    "stargazers_count": 75397,
+    "open_issues_count": 70,
+    "forks_count": 10183
   },
   {
     "full_name": "FaridSafi/react-native-gifted-chat",
-    "stargazers_count": 12022,
-    "open_issues_count": 88,
-    "forks_count": 3410
+    "stargazers_count": 12030,
+    "open_issues_count": 89,
+    "forks_count": 3413
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 27369,
-    "open_issues_count": 16917,
-    "forks_count": 2663
+    "stargazers_count": 27784,
+    "open_issues_count": 17089,
+    "forks_count": 2698
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 82956,
+    "stargazers_count": 83024,
     "open_issues_count": 34,
-    "forks_count": 8578
+    "forks_count": 8586
   },
   {
     "full_name": "hayanisaid/React-Native-developer-roadmap",
-    "stargazers_count": 536,
+    "stargazers_count": 539,
     "open_issues_count": 1,
-    "forks_count": 76
+    "forks_count": 78
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 3124,
+    "stargazers_count": 3133,
     "open_issues_count": 4,
-    "forks_count": 437
+    "forks_count": 436
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 254765,
-    "open_issues_count": 137,
-    "forks_count": 52398
+    "stargazers_count": 255386,
+    "open_issues_count": 53,
+    "forks_count": 52505
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 49441,
-    "open_issues_count": 89,
-    "forks_count": 6974
+    "stargazers_count": 49550,
+    "open_issues_count": 90,
+    "forks_count": 6989
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 238955,
+    "stargazers_count": 239188,
     "open_issues_count": 50,
-    "forks_count": 63871
+    "forks_count": 63926
   },
   {
     "full_name": "pion/webrtc",
-    "stargazers_count": 10234,
-    "open_issues_count": 94,
-    "forks_count": 1303
+    "stargazers_count": 10251,
+    "open_issues_count": 95,
+    "forks_count": 1305
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 26004,
+    "stargazers_count": 26022,
     "open_issues_count": 17,
-    "forks_count": 5417
+    "forks_count": 5420
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 44255,
+    "stargazers_count": 44330,
     "open_issues_count": 101,
-    "forks_count": 3442
+    "forks_count": 3450
   },
   {
     "full_name": "ahmetb/kubectx",
-    "stargazers_count": 14115,
-    "open_issues_count": 50,
-    "forks_count": 1029
+    "stargazers_count": 14142,
+    "open_issues_count": 51,
+    "forks_count": 1031
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 90725,
+    "stargazers_count": 91045,
     "open_issues_count": 78,
-    "forks_count": 10454
+    "forks_count": 10484
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 93713,
-    "open_issues_count": 2405,
-    "forks_count": 34376
+    "stargazers_count": 93809,
+    "open_issues_count": 2443,
+    "forks_count": 34399
   },
   {
     "full_name": "karan/Projects",
-    "stargazers_count": 40392,
+    "stargazers_count": 40437,
     "open_issues_count": 85,
-    "forks_count": 10418
+    "forks_count": 10422
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 105759,
-    "open_issues_count": 7946,
-    "forks_count": 15607
+    "stargazers_count": 105853,
+    "open_issues_count": 7943,
+    "forks_count": 15624
   },
   {
     "full_name": "benawad/lireddit",
-    "stargazers_count": 1694,
+    "stargazers_count": 1695,
     "open_issues_count": 35,
-    "forks_count": 476
+    "forks_count": 478
   },
   {
     "full_name": "majodev/google-webfonts-helper",
-    "stargazers_count": 10527,
+    "stargazers_count": 10556,
     "open_issues_count": 95,
-    "forks_count": 384
+    "forks_count": 386
   }
 ]
