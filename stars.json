@@ -1,182 +1,182 @@
 [
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 2248,
-    "open_issues_count": 30,
-    "forks_count": 100
+    "stargazers_count": 2252,
+    "open_issues_count": 31,
+    "forks_count": 101
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 31162,
-    "open_issues_count": 403,
-    "forks_count": 1279
+    "stargazers_count": 31236,
+    "open_issues_count": 405,
+    "forks_count": 1280
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 5935,
-    "open_issues_count": 58,
-    "forks_count": 83
+    "stargazers_count": 5973,
+    "open_issues_count": 61,
+    "forks_count": 82
   },
   {
     "full_name": "Textualize/textual",
-    "stargazers_count": 16231,
-    "open_issues_count": 107,
-    "forks_count": 464
+    "stargazers_count": 16262,
+    "open_issues_count": 108,
+    "forks_count": 469
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 8951,
-    "open_issues_count": 195,
+    "stargazers_count": 8967,
+    "open_issues_count": 192,
     "forks_count": 695
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 7663,
-    "open_issues_count": 69,
+    "stargazers_count": 7704,
+    "open_issues_count": 75,
     "forks_count": 370
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 8488,
-    "open_issues_count": 33,
-    "forks_count": 372
+    "stargazers_count": 8556,
+    "open_issues_count": 39,
+    "forks_count": 375
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 22815,
-    "open_issues_count": 65,
-    "forks_count": 1077
+    "stargazers_count": 22943,
+    "open_issues_count": 73,
+    "forks_count": 1087
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 13535,
+    "stargazers_count": 13621,
     "open_issues_count": 232,
-    "forks_count": 568
+    "forks_count": 575
   },
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 16152,
+    "stargazers_count": 16161,
     "open_issues_count": 7,
-    "forks_count": 709
+    "forks_count": 710
   },
   {
     "full_name": "gaearon/whatthefuck.is",
-    "stargazers_count": 2951,
+    "stargazers_count": 2952,
     "open_issues_count": 336,
     "forks_count": 110
   },
   {
     "full_name": "danmarshall/google-font-to-svg-path",
-    "stargazers_count": 491,
+    "stargazers_count": 493,
     "open_issues_count": 7,
     "forks_count": 89
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 75721,
+    "stargazers_count": 75920,
     "open_issues_count": 69,
-    "forks_count": 10215
+    "forks_count": 10239
   },
   {
     "full_name": "FaridSafi/react-native-gifted-chat",
-    "stargazers_count": 12034,
-    "open_issues_count": 90,
-    "forks_count": 3415
+    "stargazers_count": 12044,
+    "open_issues_count": 95,
+    "forks_count": 3416
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 28036,
-    "open_issues_count": 17416,
-    "forks_count": 2739
+    "stargazers_count": 28143,
+    "open_issues_count": 17661,
+    "forks_count": 2759
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 83533,
+    "stargazers_count": 83658,
     "open_issues_count": 35,
-    "forks_count": 8624
+    "forks_count": 8633
   },
   {
     "full_name": "hayanisaid/React-Native-developer-roadmap",
-    "stargazers_count": 545,
+    "stargazers_count": 547,
     "open_issues_count": 1,
     "forks_count": 82
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 3142,
+    "stargazers_count": 3152,
     "open_issues_count": 6,
-    "forks_count": 438
+    "forks_count": 439
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 256706,
+    "stargazers_count": 257041,
     "open_issues_count": 53,
-    "forks_count": 52641
+    "forks_count": 52699
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 49847,
+    "stargazers_count": 49963,
     "open_issues_count": 90,
-    "forks_count": 7037
+    "forks_count": 7057
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 239741,
+    "stargazers_count": 240058,
     "open_issues_count": 50,
-    "forks_count": 64061
+    "forks_count": 64157
   },
   {
     "full_name": "pion/webrtc",
-    "stargazers_count": 10289,
+    "stargazers_count": 10301,
     "open_issues_count": 95,
-    "forks_count": 1315
+    "forks_count": 1320
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 26071,
+    "stargazers_count": 26135,
     "open_issues_count": 17,
-    "forks_count": 5422
+    "forks_count": 5430
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 44449,
-    "open_issues_count": 102,
-    "forks_count": 3456
+    "stargazers_count": 44512,
+    "open_issues_count": 103,
+    "forks_count": 3458
   },
   {
     "full_name": "ahmetb/kubectx",
-    "stargazers_count": 14212,
-    "open_issues_count": 54,
-    "forks_count": 1034
+    "stargazers_count": 14232,
+    "open_issues_count": 52,
+    "forks_count": 1035
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 91494,
-    "open_issues_count": 80,
-    "forks_count": 10501
+    "stargazers_count": 91852,
+    "open_issues_count": 87,
+    "forks_count": 10522
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 93975,
-    "open_issues_count": 2497,
-    "forks_count": 34456
+    "stargazers_count": 94071,
+    "open_issues_count": 2495,
+    "forks_count": 34510
   },
   {
     "full_name": "karan/Projects",
-    "stargazers_count": 40483,
+    "stargazers_count": 40521,
     "open_issues_count": 85,
-    "forks_count": 10428
+    "forks_count": 10430
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 106060,
-    "open_issues_count": 7943,
-    "forks_count": 15645
+    "stargazers_count": 106166,
+    "open_issues_count": 7954,
+    "forks_count": 15648
   },
   {
     "full_name": "benawad/lireddit",
-    "stargazers_count": 1696,
+    "stargazers_count": 1699,
     "open_issues_count": 35,
-    "forks_count": 477
+    "forks_count": 480
   }
 ]
