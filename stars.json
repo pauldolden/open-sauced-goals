@@ -1,115 +1,127 @@
 [
   {
+    "full_name": "gelguy/wilder.nvim",
+    "stargazers_count": 934,
+    "open_issues_count": 36,
+    "forks_count": 17
+  },
+  {
+    "full_name": "nektos/act",
+    "stargazers_count": 35041,
+    "open_issues_count": 86,
+    "forks_count": 883
+  },
+  {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 58811,
-    "open_issues_count": 371,
-    "forks_count": 1545
+    "stargazers_count": 58971,
+    "open_issues_count": 386,
+    "forks_count": 1548
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 32357,
-    "open_issues_count": 15,
-    "forks_count": 2064
+    "stargazers_count": 32416,
+    "open_issues_count": 14,
+    "forks_count": 2068
   },
   {
     "full_name": "rothgar/awesome-tuis",
-    "stargazers_count": 4448,
-    "open_issues_count": 4,
-    "forks_count": 150
+    "stargazers_count": 4458,
+    "open_issues_count": 6,
+    "forks_count": 152
   },
   {
     "full_name": "soheilpro/mailwind",
-    "stargazers_count": 2913,
+    "stargazers_count": 2915,
     "open_issues_count": 3,
     "forks_count": 65
   },
   {
     "full_name": "fathyb/carbonyl",
-    "stargazers_count": 10831,
-    "open_issues_count": 32,
-    "forks_count": 245
+    "stargazers_count": 10964,
+    "open_issues_count": 31,
+    "forks_count": 247
   },
   {
     "full_name": "FFmpeg/FFmpeg",
-    "stargazers_count": 34046,
+    "stargazers_count": 34101,
     "open_issues_count": 3,
-    "forks_count": 10563
+    "forks_count": 10579
   },
   {
     "full_name": "AGWA/git-crypt",
-    "stargazers_count": 7068,
+    "stargazers_count": 7074,
     "open_issues_count": 116,
     "forks_count": 421
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 7701,
-    "open_issues_count": 372,
+    "stargazers_count": 7721,
+    "open_issues_count": 370,
     "forks_count": 383
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 2454,
+    "stargazers_count": 2465,
     "open_issues_count": 34,
-    "forks_count": 113
+    "forks_count": 116
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 32700,
-    "open_issues_count": 438,
-    "forks_count": 1342
+    "stargazers_count": 32748,
+    "open_issues_count": 439,
+    "forks_count": 1343
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 7072,
-    "open_issues_count": 64,
-    "forks_count": 112
+    "stargazers_count": 7101,
+    "open_issues_count": 66,
+    "forks_count": 114
   },
   {
     "full_name": "Textualize/textual",
-    "stargazers_count": 17679,
-    "open_issues_count": 123,
-    "forks_count": 516
+    "stargazers_count": 17745,
+    "open_issues_count": 117,
+    "forks_count": 520
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 9227,
-    "open_issues_count": 211,
+    "stargazers_count": 9244,
+    "open_issues_count": 210,
     "forks_count": 725
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 9046,
-    "open_issues_count": 80,
-    "forks_count": 409
+    "stargazers_count": 9090,
+    "open_issues_count": 70,
+    "forks_count": 414
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 9345,
-    "open_issues_count": 23,
-    "forks_count": 435
+    "stargazers_count": 9374,
+    "open_issues_count": 27,
+    "forks_count": 439
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 27058,
-    "open_issues_count": 101,
-    "forks_count": 1283
+    "stargazers_count": 27219,
+    "open_issues_count": 102,
+    "forks_count": 1295
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 15211,
-    "open_issues_count": 305,
-    "forks_count": 701
+    "stargazers_count": 15288,
+    "open_issues_count": 313,
+    "forks_count": 708
   },
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 16453,
+    "stargazers_count": 16466,
     "open_issues_count": 8,
     "forks_count": 719
   },
   {
     "full_name": "gaearon/whatthefuck.is",
-    "stargazers_count": 2978,
+    "stargazers_count": 2980,
     "open_issues_count": 337,
     "forks_count": 112
   },
@@ -121,62 +133,50 @@
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 79369,
+    "stargazers_count": 79510,
     "open_issues_count": 74,
-    "forks_count": 10728
+    "forks_count": 10757
   },
   {
     "full_name": "FaridSafi/react-native-gifted-chat",
-    "stargazers_count": 12193,
+    "stargazers_count": 12199,
     "open_issues_count": 117,
-    "forks_count": 3445
+    "forks_count": 3448
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 30326,
-    "open_issues_count": 20815,
-    "forks_count": 3066
+    "stargazers_count": 30464,
+    "open_issues_count": 21027,
+    "forks_count": 3092
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 86440,
+    "stargazers_count": 86533,
     "open_issues_count": 34,
-    "forks_count": 8942
+    "forks_count": 8952
   },
   {
     "full_name": "hayanisaid/React-Native-developer-roadmap",
-    "stargazers_count": 595,
+    "stargazers_count": 599,
     "open_issues_count": 2,
     "forks_count": 83
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 3319,
-    "open_issues_count": 7,
-    "forks_count": 464
+    "stargazers_count": 3324,
+    "open_issues_count": 8,
+    "forks_count": 465
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 266702,
-    "open_issues_count": 39,
-    "forks_count": 53793
+    "stargazers_count": 267279,
+    "open_issues_count": 40,
+    "forks_count": 53853
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 52338,
+    "stargazers_count": 52451,
     "open_issues_count": 6,
-    "forks_count": 7407
-  },
-  {
-    "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 246813,
-    "open_issues_count": 56,
-    "forks_count": 65459
-  },
-  {
-    "full_name": "pion/webrtc",
-    "stargazers_count": 10695,
-    "open_issues_count": 102,
-    "forks_count": 1373
+    "forks_count": 7427
   }
 ]
