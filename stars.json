@@ -1,15 +1,15 @@
 [
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 8833,
-    "open_issues_count": 33,
-    "forks_count": 707
+    "stargazers_count": 9045,
+    "open_issues_count": 44,
+    "forks_count": 755
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 44176,
-    "open_issues_count": 878,
-    "forks_count": 29117
+    "stargazers_count": 44239,
+    "open_issues_count": 861,
+    "forks_count": 29122
   },
   {
     "full_name": "seb-cr/node-scripting",
@@ -19,164 +19,164 @@
   },
   {
     "full_name": "swyxio/ai-notes",
-    "stargazers_count": 3006,
+    "stargazers_count": 3033,
     "open_issues_count": 2,
-    "forks_count": 234
+    "forks_count": 237
   },
   {
     "full_name": "statsbomb/open-data",
-    "stargazers_count": 1932,
+    "stargazers_count": 1935,
     "open_issues_count": 25,
-    "forks_count": 647
+    "forks_count": 650
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 5436,
-    "open_issues_count": 2,
-    "forks_count": 400
+    "stargazers_count": 5460,
+    "open_issues_count": 3,
+    "forks_count": 402
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 55952,
-    "open_issues_count": 266,
-    "forks_count": 16848
+    "stargazers_count": 56047,
+    "open_issues_count": 262,
+    "forks_count": 16925
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 91765,
-    "open_issues_count": 6351,
-    "forks_count": 11807
+    "stargazers_count": 91848,
+    "open_issues_count": 6268,
+    "forks_count": 11811
   },
   {
     "full_name": "skeletonlabs/skeleton",
-    "stargazers_count": 2695,
-    "open_issues_count": 38,
+    "stargazers_count": 2725,
+    "open_issues_count": 43,
     "forks_count": 171
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 9201,
-    "open_issues_count": 36,
-    "forks_count": 312
+    "stargazers_count": 9268,
+    "open_issues_count": 43,
+    "forks_count": 314
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 27146,
+    "stargazers_count": 27180,
     "open_issues_count": 111,
-    "forks_count": 961
+    "forks_count": 964
   },
   {
     "full_name": "gelguy/wilder.nvim",
-    "stargazers_count": 1033,
+    "stargazers_count": 1034,
     "open_issues_count": 46,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 38984,
-    "open_issues_count": 136,
-    "forks_count": 989
+    "stargazers_count": 39062,
+    "open_issues_count": 140,
+    "forks_count": 993
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 64216,
-    "open_issues_count": 482,
-    "forks_count": 1749
+    "stargazers_count": 64301,
+    "open_issues_count": 479,
+    "forks_count": 1753
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 35028,
-    "open_issues_count": 11,
-    "forks_count": 2223
+    "stargazers_count": 35082,
+    "open_issues_count": 10,
+    "forks_count": 2227
   },
   {
     "full_name": "rothgar/awesome-tuis",
-    "stargazers_count": 4890,
+    "stargazers_count": 4899,
     "open_issues_count": 4,
-    "forks_count": 164
+    "forks_count": 166
   },
   {
     "full_name": "soheilpro/mailwind",
-    "stargazers_count": 3031,
+    "stargazers_count": 3036,
     "open_issues_count": 3,
     "forks_count": 70
   },
   {
     "full_name": "fathyb/carbonyl",
-    "stargazers_count": 12849,
+    "stargazers_count": 12908,
     "open_issues_count": 52,
-    "forks_count": 282
+    "forks_count": 284
   },
   {
     "full_name": "FFmpeg/FFmpeg",
-    "stargazers_count": 36521,
+    "stargazers_count": 36593,
     "open_issues_count": 3,
-    "forks_count": 10945
+    "forks_count": 10959
   },
   {
     "full_name": "AGWA/git-crypt",
-    "stargazers_count": 7312,
+    "stargazers_count": 7315,
     "open_issues_count": 125,
     "forks_count": 431
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 8394,
-    "open_issues_count": 389,
-    "forks_count": 430
+    "stargazers_count": 8403,
+    "open_issues_count": 385,
+    "forks_count": 431
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 2767,
-    "open_issues_count": 41,
+    "stargazers_count": 2778,
+    "open_issues_count": 43,
     "forks_count": 131
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 35498,
+    "stargazers_count": 35568,
     "open_issues_count": 499,
-    "forks_count": 1426
+    "forks_count": 1428
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 8278,
-    "open_issues_count": 50,
+    "stargazers_count": 8300,
+    "open_issues_count": 48,
     "forks_count": 145
   },
   {
     "full_name": "Textualize/textual",
-    "stargazers_count": 19577,
-    "open_issues_count": 120,
-    "forks_count": 574
+    "stargazers_count": 19608,
+    "open_issues_count": 107,
+    "forks_count": 579
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 9600,
-    "open_issues_count": 231,
-    "forks_count": 748
+    "stargazers_count": 9607,
+    "open_issues_count": 227,
+    "forks_count": 749
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 11888,
-    "open_issues_count": 87,
-    "forks_count": 550
+    "stargazers_count": 11937,
+    "open_issues_count": 89,
+    "forks_count": 552
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 10600,
-    "open_issues_count": 44,
-    "forks_count": 546
+    "stargazers_count": 10623,
+    "open_issues_count": 40,
+    "forks_count": 548
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 30846,
-    "open_issues_count": 156,
-    "forks_count": 1588
+    "stargazers_count": 30978,
+    "open_issues_count": 173,
+    "forks_count": 1590
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 17825,
-    "open_issues_count": 391,
-    "forks_count": 946
+    "stargazers_count": 17866,
+    "open_issues_count": 400,
+    "forks_count": 950
   }
 ]
