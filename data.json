@@ -1,32 +1,32 @@
 [
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 15284,
-    "open_issues_count": 512,
-    "forks_count": 1434
+    "stargazers_count": 15332,
+    "open_issues_count": 521,
+    "forks_count": 1438
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 70695,
-    "open_issues_count": 839,
-    "forks_count": 3916
+    "stargazers_count": 70796,
+    "open_issues_count": 840,
+    "forks_count": 3922
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 31683,
-    "open_issues_count": 160,
-    "forks_count": 1650
+    "stargazers_count": 31769,
+    "open_issues_count": 171,
+    "forks_count": 1659
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 10907,
+    "stargazers_count": 10936,
     "open_issues_count": 49,
-    "forks_count": 584
+    "forks_count": 586
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 69986,
-    "open_issues_count": 20,
-    "forks_count": 3606
+    "stargazers_count": 70104,
+    "open_issues_count": 19,
+    "forks_count": 3610
   }
 ]
