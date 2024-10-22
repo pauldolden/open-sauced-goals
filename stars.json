@@ -1,45 +1,45 @@
 [
   {
     "full_name": "docker-library/official-images",
-    "stargazers_count": 6462,
-    "open_issues_count": 48,
-    "forks_count": 2343
+    "stargazers_count": 6463,
+    "open_issues_count": 47,
+    "forks_count": 2347
   },
   {
     "full_name": "CopilotC-Nvim/CopilotChat.nvim",
-    "stargazers_count": 1615,
+    "stargazers_count": 1621,
     "open_issues_count": 17,
-    "forks_count": 73
+    "forks_count": 72
   },
   {
     "full_name": "syumai/workers",
-    "stargazers_count": 654,
+    "stargazers_count": 660,
     "open_issues_count": 19,
     "forks_count": 40
   },
   {
     "full_name": "gleam-lang/awesome-gleam",
-    "stargazers_count": 1287,
+    "stargazers_count": 1295,
     "open_issues_count": 40,
     "forks_count": 73
   },
   {
     "full_name": "gleam-wisp/wisp",
-    "stargazers_count": 840,
-    "open_issues_count": 11,
+    "stargazers_count": 845,
+    "open_issues_count": 12,
     "forks_count": 37
   },
   {
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 17766,
-    "open_issues_count": 177,
-    "forks_count": 742
+    "stargazers_count": 17795,
+    "open_issues_count": 173,
+    "forks_count": 745
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 31487,
-    "open_issues_count": 133,
-    "forks_count": 1603
+    "stargazers_count": 31541,
+    "open_issues_count": 134,
+    "forks_count": 1613
   },
   {
     "full_name": "contourpy/contourpy",
@@ -50,14 +50,14 @@
   {
     "full_name": "xddq/ts2typebox",
     "stargazers_count": 43,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "serde-rs/serde",
-    "stargazers_count": 9081,
-    "open_issues_count": 292,
-    "forks_count": 767
+    "stargazers_count": 9090,
+    "open_issues_count": 293,
+    "forks_count": 769
   },
   {
     "full_name": "Equilibris/nx.nvim",
@@ -67,33 +67,33 @@
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36202,
-    "open_issues_count": 22,
+    "stargazers_count": 36200,
+    "open_issues_count": 23,
     "forks_count": 1092
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 53517,
-    "open_issues_count": 26,
-    "forks_count": 10092
+    "stargazers_count": 53615,
+    "open_issues_count": 27,
+    "forks_count": 10105
   },
   {
     "full_name": "basti-app/basti",
-    "stargazers_count": 337,
+    "stargazers_count": 338,
     "open_issues_count": 16,
     "forks_count": 17
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11805,
+    "stargazers_count": 11809,
     "open_issues_count": 80,
-    "forks_count": 1026
+    "forks_count": 1027
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 48432,
-    "open_issues_count": 755,
-    "forks_count": 30134
+    "stargazers_count": 48450,
+    "open_issues_count": 744,
+    "forks_count": 30140
   },
   {
     "full_name": "seb-cr/node-scripting",
@@ -103,79 +103,79 @@
   },
   {
     "full_name": "swyxio/ai-notes",
-    "stargazers_count": 5139,
+    "stargazers_count": 5143,
     "open_issues_count": 3,
     "forks_count": 416
   },
   {
     "full_name": "statsbomb/open-data",
-    "stargazers_count": 2458,
+    "stargazers_count": 2459,
     "open_issues_count": 32,
-    "forks_count": 772
+    "forks_count": 771
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 16992,
+    "stargazers_count": 17056,
     "open_issues_count": 80,
-    "forks_count": 1193
+    "forks_count": 1196
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 68980,
-    "open_issues_count": 321,
-    "forks_count": 22738
+    "stargazers_count": 69064,
+    "open_issues_count": 330,
+    "forks_count": 22773
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 100694,
-    "open_issues_count": 5796,
-    "forks_count": 12447
+    "stargazers_count": 100755,
+    "open_issues_count": 5795,
+    "forks_count": 12457
   },
   {
     "full_name": "skeletonlabs/skeleton",
-    "stargazers_count": 4950,
-    "open_issues_count": 78,
+    "stargazers_count": 4958,
+    "open_issues_count": 77,
     "forks_count": 315
   },
   {
     "full_name": "leptos-rs/leptos",
-    "stargazers_count": 16142,
-    "open_issues_count": 83,
-    "forks_count": 633
+    "stargazers_count": 16169,
+    "open_issues_count": 62,
+    "forks_count": 635
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 36896,
+    "stargazers_count": 36933,
     "open_issues_count": 164,
     "forks_count": 1183
   },
   {
     "full_name": "gelguy/wilder.nvim",
-    "stargazers_count": 1356,
+    "stargazers_count": 1358,
     "open_issues_count": 60,
     "forks_count": 34
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 54623,
-    "open_issues_count": 199,
-    "forks_count": 1360
+    "stargazers_count": 54700,
+    "open_issues_count": 205,
+    "forks_count": 1363
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 83682,
-    "open_issues_count": 997,
-    "forks_count": 2508
+    "stargazers_count": 83840,
+    "open_issues_count": 1002,
+    "forks_count": 2517
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 46513,
-    "open_issues_count": 12,
-    "forks_count": 2743
+    "stargazers_count": 46594,
+    "open_issues_count": 11,
+    "forks_count": 2746
   },
   {
     "full_name": "rothgar/awesome-tuis",
-    "stargazers_count": 7840,
+    "stargazers_count": 7874,
     "open_issues_count": 9,
     "forks_count": 270
   }
